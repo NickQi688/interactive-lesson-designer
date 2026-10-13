@@ -1,0 +1,4 @@
+interface:
+  display_name: "互动课件设计师"
+  short_description: "将教学内容转化为适合课堂投屏的可视化互动课件，支持设计、制作与检查交付"
+  default_prompt: "使用 $interactive-lesson-designer，把我的教学内容设计并制作成适合课堂使用的可视化互动课件。"
